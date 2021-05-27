@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["ErrorKind","Errors for things that may arise in a valid Fe AST."]],"struct":[["SemanticError",""]]});
